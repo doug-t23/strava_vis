@@ -6,7 +6,7 @@ from bokeh.models import Select
 from bokeh.palettes import Spectral5
 from bokeh.plotting import curdoc, figure
 
-df = pd.read_csv(join(dirname(__file__), 'strava_data.csv'))
+df = pd.read_csv(join(dirname(__file__), 'strava_runs.csv'))
 
 
 SIZES = list(range(6, 22, 3))
