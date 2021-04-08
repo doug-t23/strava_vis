@@ -1,16 +1,30 @@
-athlete,activity_type,date,time,distance_km,time_taken,elevation_m,pace_km,location,pr?
-Tom,Run,2021-04-07,13:05,5.46,00:33:14,4,00:06:05,Chiswick,
-Douglas,Run,2021-04-02,17:02,10.03,01:01:21,229,00:06:07,Sheffield,
-Jeevan,Run,2021-04-02,11:12,2.71,00:17:24,19,00:06:25,South Woodford,
-Douglas,Run,2021-03-27,11:32,6.74,00:42:46,131,00:06:21,Sheffield,
-Tom,Run,2021-03-25,14:48,5.43,00:36:34,4,00:06:44,Chiswick,
-Tom,Run,2021-03-24,13:13,5.43,00:34:21,3,00:07:02,Chiswick,
-Douglas,Run,2021-03-23,16:23,4.51,00:28:39,120,00:06:21,Sheffield,
-Jeevan,Run,2021-03-21,10:45,2.16,00:12:57,9,00:05:59,South Woodford,Fastest 1km
-Douglas,Run,2021-03-20,11:43,10.37,01:10:02,215,00:06:45,Sheffield,
-Jeevan,Run,2021-03-18,08:24,1.77,00:09:23,8,00:05:18,South Woodford,
-Tom,Run,2021-03-16,13:42,5.5,00:31:01,4,00:05:38,Chiswick,
-Douglas,Run,2021-03-16,07:39,5.01,00:26:14,50,00:05:14,Sheffield,
-Douglas,Run,2021-03-12,17:38,6.26,00:34:46,71,00:05:33,Sheffield,
-Douglas,Run,2021-03-11,15:00,3.55,00:21:33,0,00:06:04,Sheffield,
-Tom,Run,2021-03-11,12:40,10.04,01:01:02,7,00:06:05,Chiswick,
+athlete,activity_type,date,time,distance_km,time_taken,elevation_m,pace_km,location,pr?,day_of_week,time_of_day
+Tim,Run ,2021-04-05,18:36,3.39,00:19:31,30,00:05:45,Surrey,,Monday,Evening
+Tom,Run,2021-04-07,13:05,5.46,00:33:14,4,00:06:05,Chiswick,,Wednesday,Afternoon
+Tim,Run ,2021-04-05,18:57,3.43,00:20:08,17,00:05:52,Surrey,,Monday,Evening
+Douglas,Run,2021-04-02,17:02,10.03,01:01:21,229,00:06:07,Sheffield,,Friday,Afternoon
+Jeevan,Run,2021-04-02,11:12,2.71,00:17:24,19,00:06:25,South Woodford,,Friday,Morning
+Douglas,Run,2021-03-27,11:32,6.74,00:42:46,131,00:06:21,Sheffield,,Saturday,Morning
+Tom,Run,2021-03-25,14:48,5.43,00:36:34,4,00:06:44,Chiswick,,Thursday,Afternoon
+Tom,Run,2021-03-24,13:13,5.43,00:34:21,3,00:07:02,Chiswick,,Wednesday,Afternoon
+Douglas,Run,2021-03-23,16:23,4.51,00:28:39,120,00:06:21,Sheffield,,Tuesday,Afternoon
+Jeevan,Run,2021-03-21,10:45,2.16,00:12:57,9,00:05:59,South Woodford,Fastest 1km,Sunday,Morning
+Douglas,Run,2021-03-20,11:43,10.37,01:10:02,215,00:06:45,Sheffield,,Saturday,Morning
+Jeevan,Run,2021-03-18,08:24,1.77,00:09:23,8,00:05:18,South Woodford,,Thursday,Morning
+Tom,Run,2021-03-16,13:42,5.5,00:31:01,4,00:05:38,Chiswick,,Tuesday,Afternoon
+Douglas,Run,2021-03-16,07:39,5.01,00:26:14,50,00:05:14,Sheffield,,Tuesday,Morning
+Douglas,Run,2021-03-12,17:38,6.26,00:34:46,71,00:05:33,Sheffield,,Friday,Afternoon
+Douglas,Run,2021-03-11,15:00,3.55,00:21:33,0,00:06:04,Sheffield,,Thursday,Afternoon
+Tom,Run,2021-03-11,12:40,10.04,01:01:02,7,00:06:05,Chiswick,,Thursday,Afternoon
+Tom,Run,2021-03-09,18:11,2.35,00:13:11,0,00:05:35,Chiswick,,Tuesday,Evening
+Tom,Run,2021-03-09,13:16,3.08,00:22:21,3,00:07:15,Chiswick,,Tuesday,Afternoon
+Tom,Run,2021-03-08,13:16,5.71,00:33:45,4,00:05:54,Chiswick,,Monday,Afternoon
+Douglas,Run,2021-03-08,07:32,5,00:28:34,55,00:05:43,Sheffield,,Monday,Morning
+Tom,Run,2021-03-06,15:43,4.85,00:36:20,7,00:07:29,Chiswick,,Saturday,Afternoon
+Jeevan,Run,2021-03-04,17:37,4.79,00:29:47,11,00:06:13,South Woodford,,Thursday,Afternoon
+Tom,Run,2021-03-04,14:01,7.03,00:44:09,4,00:06:16,Chiswick,,Thursday,Afternoon
+Douglas,Run,2021-03-04,07:41,6.86,00:41:30,90,00:06:03,Sheffield,,Thursday,Morning
+Tom,Run,2021-03-02,13:13,3.82,00:26:23,3,00:06:54,Chiswick,,Tuesday,Afternoon
+Douglas,Run,2021-03-02,07:32,6.22,00:35:35,63,00:05:43,Sheffield,,Tuesday,Morning
+Tom,Run,2021-03-01,15:28,5.24,00:31:48,3,00:06:04,Chiswick,,Monday,Afternoon
+Douglas,Run,2021-02-28,10:02,4.03,00:25:30,132,00:06:20,Sheffield,,Sunday,Morning
