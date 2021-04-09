@@ -80,4 +80,4 @@ controls = column(x, y, color, size, width=200)
 layout = row(controls, create_figure())
 
 curdoc().add_root(layout)
-curdoc().title = "Crossfilter"
+curdoc().title = "Stava Vis"
