@@ -64,7 +64,7 @@ def update(attr, old, new):
     layout.children[1] = create_figure()
 
 
-x = Select(title='X-Axis', value='time_taken', options=columns)
+x = Select(title='X-Axis', value='athlete', options=columns)
 x.on_change('value', update)
 
 y = Select(title='Y-Axis', value='distance_km', options=columns)
